@@ -84,7 +84,7 @@ span {
 .grid__item:nth-child(4){ border-top: 5px solid hsl(212, 86%, 64%); }
 
 /* Media Query for Desktop (because I'm using a mobile-first approch here)*/
-@media (min-width: 376px) {
+@media (min-width: 700px) {
   .title__container {
     width: 50%;
     margin-left: auto;
